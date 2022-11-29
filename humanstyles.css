@@ -80,6 +80,9 @@ button{
   cursor: pointer;
   transition: all 150ms ease-in-out;
   font-family: 'Montserrat', sans-serif;
+  margin-left: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
 }
 
 .text{
