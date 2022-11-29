@@ -96,6 +96,11 @@ button{
   color: #a1a1a1;
 }
 
+h3{
+  color: blue;
+  text-decoration-line: underline;
+}
+
 .container{
 text-transform: uppercase;
 }
