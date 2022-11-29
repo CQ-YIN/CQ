@@ -100,3 +100,8 @@ button{
 text-transform: uppercase;
 }
 
+h3{
+  color: blue;
+  text-decoration-line: underline;
+}
+
